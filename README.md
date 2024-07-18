@@ -84,11 +84,8 @@
   <a href="mailto:sarthaknande19@gmail.com">
     <img align="left" alt="Sarthak Nande | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
-  <a href="https://twitter.com/Ratheshan_03">
+  <a href="[https://twitter.com/Ratheshan_03](https://twitter.com/sarthak_nande_)">
     <img align="left" alt="Sarthak Nande| Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
-  </a>
-  <a href="https://www.instagram.com/sarthak.nande">
-    <img align="left" alt="Sarthak Nande | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
    <a href="https://github.com/sarthu210">
     <img align="left" alt="Sarthak Nande| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
