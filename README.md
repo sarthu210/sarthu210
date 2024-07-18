@@ -61,14 +61,14 @@
 
 ---
 
-<details open="">
+<details open="" style="display: flex; flex-wrap: wrap;">
 <summary>
  📔 GitHub Stats:
 </summary>
 <br>
 <p align="center">
   <a href="https://github.com/sarthu210">
-    <img align="left" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthu210&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="left" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthu210&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
   <p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthu210&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="sarthu210" /></p>
